@@ -12,7 +12,9 @@ https://chat.openai.com/
 
 ## Live at
 
+https://banhmiman.github.io/Web_APIs_Quiz/index.html
+https://github.com/BanhMiMan/Web_APIs_Quiz
 
 
-
+![Capture](https://github.com/BanhMiMan/Web_APIs_Quiz/assets/129315553/f13707bc-d88e-4264-b3c5-6b85173db5a5)
 
